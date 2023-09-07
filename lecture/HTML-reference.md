@@ -184,14 +184,14 @@ Pressing enter in an input element submits the form. This is very convenient. Al
 
 ## `tr` (table row)
 
-`tr` defines a new table row. Its children are td or th elements.
+`tr` defines a new table row. Its children are `td` or `th` elements.
 
 ## `td` (table data)
 
-A table cell. It is always the child of a `tr` element.
+A `table cell`. It is always the child of a `tr` element.
 
 ## `th` (table head)
 
-A `table` cell. Usually placed in the first row. Indicates that it is the header of the column in the table.
+A `table cell`. Usually placed in the first row. Indicates that it is the header of the column in the table.
 
 _Please don't use tables. Unless you aactually need to render "tabular" data, `table` is the Voldemort of HTML tags._

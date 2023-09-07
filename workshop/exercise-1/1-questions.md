@@ -61,3 +61,7 @@ g) `td`
 ## Q12 - Which attributes are always present in an img element?
 
 ## Q13 - Which attribute is always present for an anchor tag?
+
+---
+
+[Back to README](../../README.md)
