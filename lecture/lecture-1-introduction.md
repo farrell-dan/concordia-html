@@ -22,7 +22,7 @@ HTML is composed of `elements`.
 
 ## Anatomy of an HTML `element`
 
-<img src={anatomy} />
+![anatomy](assets/element-anatomy.png)
 
 <br/>
 
@@ -32,7 +32,7 @@ Different tags are used to define different types of content and their layout on
 
 ## Anatomy of an HTML element
 
-<img src={attribute} />
+![anatomy](assets/anatomy-attribute-element.png)
 
 | Property              | What is it                   |
 | --------------------- | ---------------------------- |
@@ -96,7 +96,7 @@ Semantic HTML pleases Google. It is easier for it to crawl and index your site. 
 
 ## Semantic HTML = Accessibility
 
-<a href="http://blogs.actuate.com/wp-content/uploads/2015/04/visualimpairmentstats.png" target="_blank" ><img src={stats} /></a>
+[![impairment_stats](assets/visual-stats.png)](http://blogs.actuate.com/wp-content/uploads/2015/04/visualimpairmentstats.png)
 
 - 22% of Canadians over the age of 15 live with at least one disability (6.2 million).
 - 26% of Americans have some type of disability. (61 million).
@@ -220,4 +220,4 @@ HTML elements will behave in one of two ways
 
 What a semantic HTML site looks like:
 
-<img src={semantic} />
+![semantic_html](assets/semantic-html.png)
